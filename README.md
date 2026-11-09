@@ -219,4 +219,3 @@ GitHub: [Atchaya-2004](https://github.com/Atchaya-2004)
 
 ---
 
-*An adaptive temporal deep learning and streaming-based approach for identifying potential Denial-of-Wallet attack patterns in serverless cloud environments.*
