@@ -1,0 +1,14 @@
+
+numpy
+pandas
+scipy
+scikit-learn
+joblib
+tensorflow
+kafka-python
+streamlit
+plotly
+matplotlib
+seaborn
+jupyter
+ipykernel
